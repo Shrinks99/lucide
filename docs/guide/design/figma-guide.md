@@ -4,7 +4,7 @@ title: Figma Template Guide
 
 # Figma Template Guide
 
-This guide shows the steps to setup Figma for creating icons that conform to the Featherity design guidelines.
+This guide shows the steps to setup Figma for creating icons that conform to the Lucide design guidelines.
 
 ## Setting Up The Frame
 When you create a new document in Figma, the document. Each individual icon you want to create, has to be created in a separate frame.
